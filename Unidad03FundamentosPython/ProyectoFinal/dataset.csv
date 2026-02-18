@@ -1,0 +1,21 @@
+nombre,plataforma,genero,año,horas_jugadas,puntuacion,desarrolladora,completado
+Elden Ring,PC,RPG,2022,120.5,10,FromSoftware,True
+The Witcher 3,PC,RPG,2015,150.0,9.8,CD Projekt Red,True
+FIFA 23,PlayStation,Deportes,2022,300.0,7.5,EA Sports,False
+Hollow Knight,Switch,Metroidvania,2017,45.0,9.5,Team Cherry,True
+Minecraft,PC,Sandbox,2011,500.0,8.5,Mojang,False
+God of War Ragnarok,PlayStation,Acción,2022,35.0,9.2,Santa Monica,True
+Cyberpunk 2077,PC,RPG,2020,80.0,8.0,CD Projekt Red,True
+Stardew Valley,Switch,Simulación,2016,100.0,9.0,ConcernedApe,False
+Call of Duty: Warzone,PlayStation,FPS,2020,250.0,7.0,Infinity Ward,False
+Zelda: Breath of the Wild,Switch,Aventura,2017,180.0,10,Nintendo,True
+Red Dead Redemption 2,PlayStation,Aventura,2018,90.0,9.7,Rockstar,True
+Among Us,PC,Social,2018,20.0,7.0,Innersloth,False
+Dark Souls 3,PC,RPG,2016,60.0,9.3,FromSoftware,True
+Overwatch 2,PC,FPS,2022,110.0,6.5,Blizzard,False
+Animal Crossing,Switch,Simulación,2020,200.0,8.8,Nintendo,False
+The Last of Us Part II,PlayStation,Acción,2020,25.0,9.5,Naughty Dog,True
+Hades,PC,Roguelike,2020,55.0,9.4,Supergiant,True
+Fortnite,PlayStation,Battle Royale,2017,400.0,6.0,Epic Games,False
+Portal 2,PC,Puzzle,2011,12.0,10,Valve,True
+Terraria,PC,Sandbox,2011,85.0,8.9,Re-Logic,False
